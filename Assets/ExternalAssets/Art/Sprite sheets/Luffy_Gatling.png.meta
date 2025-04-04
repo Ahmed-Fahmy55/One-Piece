@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 20f653556f48d934dafdde92fcc9017b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 152
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luffy_Gatling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3878
+        width: 858
+        height: 955
+      alignment: 9
+      pivot: {x: 0.57883734, y: 0.065980345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9940a39a89fb1a548ac47beed612b26e
+      internalID: -927544528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 3869
+        width: 627
+        height: 964
+      alignment: 9
+      pivot: {x: 0.5160679, y: 0.070032395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c65bc1b47dcc47bfa31979be17857
+      internalID: 1150209130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_2
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3864
+        width: 703
+        height: 969
+      alignment: 9
+      pivot: {x: 0.43858352, y: 0.07967727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447ea5f250abb24c9326b2ea5760c03
+      internalID: -792163572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_3
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 3874
+        width: 848
+        height: 959
+      alignment: 9
+      pivot: {x: 0.5458239, y: 0.06478917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f152a7f28f518f4e8b384ac5817fdf5
+      internalID: 432098217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_4
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 3862
+        width: 963
+        height: 971
+      alignment: 9
+      pivot: {x: 0.45217657, y: 0.08054303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ab405530dcfc4693dc3a0fd2a45df
+      internalID: 1097891192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2872
+        width: 1174
+        height: 976
+      alignment: 9
+      pivot: {x: 0.3872179, y: 0.076793484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd54548b3d277340b3760a167c14d49
+      internalID: 1669655638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_6
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2872
+        width: 1087
+        height: 973
+      alignment: 9
+      pivot: {x: 0.39143142, y: 0.075488634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f4c2efa65d354ca26c3b167627307
+      internalID: 1339550539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_7
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 2869
+        width: 941
+        height: 984
+      alignment: 9
+      pivot: {x: 0.39446923, y: 0.07438374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c369a47baf797e9498eee502486bdc7b
+      internalID: 1986370703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_8
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 2847
+        width: 972
+        height: 990
+      alignment: 9
+      pivot: {x: 0.43929338, y: 0.09876919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5c7cbac59da5547a21effbd19d072d
+      internalID: -1824763874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1926
+        width: 1037
+        height: 931
+      alignment: 9
+      pivot: {x: 0.43615904, y: 0.060975235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c666e7a91f1f2e54293903ea10898945
+      internalID: 698641534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_10
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1919
+        width: 1024
+        height: 941
+      alignment: 9
+      pivot: {x: 0.44659245, y: 0.071758404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528c3478a1a86d40bfbc7329512edc8
+      internalID: -53068314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_11
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1922
+        width: 960
+        height: 940
+      alignment: 9
+      pivot: {x: 0.40855128, y: 0.066709734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba749ab1f46b543a6cf3804fd0da47
+      internalID: 657802152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_12
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 1929
+        width: 1148
+        height: 903
+      alignment: 9
+      pivot: {x: 0.40096143, y: 0.060112398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c56e221a5cf74bafef5c231407891
+      internalID: 837329062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 900
+        width: 1154
+        height: 993
+      alignment: 9
+      pivot: {x: 0.40646467, y: 0.037659552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b4ad95716481b4988684cafef91ad9
+      internalID: 1398707121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_14
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 893
+        width: 1051
+        height: 997
+      alignment: 9
+      pivot: {x: 0.4780904, y: 0.046731994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a197ef2b80b94e8ce83bcd87e482f
+      internalID: -1279688740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_15
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 889
+        width: 933
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.4768621, y: 0.045967404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d72df8036b9e14282f29cef24247f3
+      internalID: 1935799044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_16
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 889
+        width: 890
+        height: 990
+      alignment: 9
+      pivot: {x: 0.50646865, y: 0.052249547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c9e2d83b330fb439f3b2a6c3a579e7
+      internalID: -1839835335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 26
+        width: 815
+        height: 847
+      alignment: 9
+      pivot: {x: 0.4947025, y: 0.037825484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532bf7f86fcabf54dbbb4b8eb464111a
+      internalID: -1202041947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Gatling_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 22
+        width: 712
+        height: 859
+      alignment: 9
+      pivot: {x: 0.45553058, y: 0.042606484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871473a28ccd104b8a07e23b4cc48d2
+      internalID: -1052244358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Luffy_Gatling_0: -927544528
+      Luffy_Gatling_1: 310272873
+      Luffy_Gatling_10: -1824763874
+      Luffy_Gatling_11: 698641534
+      Luffy_Gatling_12: -53068314
+      Luffy_Gatling_13: 657802152
+      Luffy_Gatling_14: 837329062
+      Luffy_Gatling_15: 1398707121
+      Luffy_Gatling_16: -1279688740
+      Luffy_Gatling_17: 1935799044
+      Luffy_Gatling_18: -1839835335
+      Luffy_Gatling_2: 471796698
+      Luffy_Gatling_3: 1150209130
+      Luffy_Gatling_4: -792163572
+      Luffy_Gatling_5: 432098217
+      Luffy_Gatling_6: 1097891192
+      Luffy_Gatling_7: 1669655638
+      Luffy_Gatling_8: 1339550539
+      Luffy_Gatling_9: 1986370703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
