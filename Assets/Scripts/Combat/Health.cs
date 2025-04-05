@@ -71,44 +71,12 @@ public class Health : MonoBehaviour
         });
     }
 
-    /*    [Button("takeDamage")]
-        public void TakeInstantDamage()
-        {
-            if (_isDead) return;
-
-            _currentHealth = Mathf.Max(0, _currentHealth - 20);
-            OnTakeDamage?.Invoke((float)_currentHealth / maxHealth);
-
-            if (_currentHealth == 0)
-            {
-                _isDead = true;
-                OnDie?.Invoke();
-            }
-        }
-        [Button]
-        public void TakeTimeInstantDamage()
-        {
-            if (_isDead) return;
-
-            DOVirtual.Int(_currentHealth, Mathf.Max(0, _currentHealth - 20), 2, (x) =>
-            {
-                _currentHealth = x;
-                OnTakeDamage?.Invoke((float)_currentHealth / maxHealth);
-            }).
-            OnComplete(() =>
-            {
-                if (_currentHealth == 0)
-                {
-                    _isDead = true;
-                    OnDie?.Invoke();
-                }
-            });
-        }*/
 
     public int GetMaxLifes()
     {
         return maxHealth;
     }
+
     public bool IsDead()
     {
         return _isDead;

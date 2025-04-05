@@ -1,7 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class EnemyVisuals : MonoBehaviour
 {
@@ -20,6 +17,6 @@ public class EnemyVisuals : MonoBehaviour
     }
     private void HandleFlip()
     {
-        transform.localScale = new Vector3(_enemyAI.ShouldFaceLeft()? -1:1,1,1);
+        transform.localScale = new Vector3(_enemyAI.ShouldFaceLeft() ? -1 : 1, 1, 1);
     }
 }
